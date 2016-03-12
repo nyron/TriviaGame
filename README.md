@@ -1,1 +1,1 @@
-Link To Website: http://nyron-waite.github.io/Trivia/trivia.html
+Link To Website:http://nyron.github.io/TriviaGame/trivia.html
